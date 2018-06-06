@@ -143,8 +143,9 @@ Let's take a look at the terms used by Washington and Obama.
 Interested in looking at all of the State of the Union addresses? Here you [go](https://programminghistorian.org/assets/basic-text-processing-in-r/sotu_text.zip)! 
 
 Want to look at films plots from Wikipedia? Here you [go](https://github.com/dmics/voyant/blob/master/txt.zip)! 
-The "all" folder includes the plots from each film nominated for an Academy Award.
-The "win" folder inclues a subset, the plots from each film that won an Academ Award. 
+- The "all" folder includes the plots from each film nominated for an Academy Award.
+- The "win" folder inclues a subset, the plots from each film that won an Acadeym Award. 
+
 
 If you are interested in how to work with the State of the Union addressed with the R programming language, see [my tutorial](https://programminghistorian.org/lessons/basic-text-processing-in-r) with Taylor Arnold on Programming Historian. 
 
